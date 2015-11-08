@@ -1,10 +1,10 @@
 # 7g253
 A card game
-# Environment:
+# Environment
 OS:Windows/Mac Os/Linux<br>
 Python edition:Python2.7<br>
 Pakages:Pygame
-# Rules:
+# Rules
 1.It needs two dashs of cards in this game.<br>
 2.The order of cards by there values:7>Joker>2>5>3>K>Q>J>10>8>6>4>A<br>
 3.Red cards>black cards when there ranks are same<br>
@@ -13,7 +13,7 @@ Pakages:Pygame
 6.If you have no cards in your hand that is bigger than the card which the other player played, then you shoud put one of your hand cards up side down.<br>
 7.When there is no cards to draw,the game is over,and the player who has less cards up side down wins the game,except...<br>
 8.If someone have a full collection of "7/Joker/2/5/3" in the same color,he wins directly.
-# Screenshots:
+# Screenshots
 ![1](http://img.blog.csdn.net/20140412152503765)
 ![2](http://img.blog.csdn.net/20140412143531468)
 ![3](http://img.blog.csdn.net/20140412143524296)
