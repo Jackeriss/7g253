@@ -1,9 +1,11 @@
 # 7g253
 A card game
 ## Environment
-OS:Windows/Mac Os/Linux  
-Python edition:Python2.7  
-Pakages:Pygame
+
+    OS:Windows/Mac Os/Linux  
+    Python edition:Python2.7  
+    Pakages:Pygame
+
 ## Rules
 1.It needs two dashs of cards in this game.  
 2.The order of cards by there values:7>Joker>2>5>3>K>Q>J>10>8>6>4>A  
