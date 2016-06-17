@@ -18,6 +18,11 @@ A card game
 ## Release
 [For Windows](http://www.jackeriss.com/works/7g253.zip)
 ## Screenshots
-![1](http://img.blog.csdn.net/20140412152503765)
-![2](http://img.blog.csdn.net/20140412143531468)
-![3](http://img.blog.csdn.net/20140412143524296)
+![1](http://image.jackeriss.com/project/7g253/1.png)
+![2](http://image.jackeriss.com/project/7g253/2.png)
+![3](http://image.jackeriss.com/project/7g253/3.png)
+![4](http://image.jackeriss.com/project/7g253/4.png)
+![5](http://image.jackeriss.com/project/7g253/5.png)
+![6](http://image.jackeriss.com/project/7g253/6.png)
+![7](http://image.jackeriss.com/project/7g253/7.png)
+![8](http://image.jackeriss.com/project/7g253/8.png)
