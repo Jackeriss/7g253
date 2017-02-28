@@ -1,4 +1,5 @@
 # 7g253
+[![EOL](https://img.shields.io/badge/Status-EOL-lightgrey.svg?style=flat-square)]()
 A card game
 ## Environment
 
