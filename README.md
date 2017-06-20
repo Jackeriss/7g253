@@ -17,7 +17,7 @@ A card game
 7.When there is no cards to draw,the game is over,and the player who has less cards up side down wins the game,except...  
 8.If someone have a full collection of "7/Joker/2/5/3" in the same color,he wins directly.
 ## Release
-[For Windows](http://downloads.jackeriss.com/works/7g253.zip)
+[For Windows](http://download.jackeriss.com/works/7g253.zip)
 ## Screenshots
 ![1](http://image.jackeriss.com/project/7g253/1.png)
 ![2](http://image.jackeriss.com/project/7g253/2.png)
