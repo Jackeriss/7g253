@@ -1,4 +1,4 @@
-# 7g253
+# 七鬼二五三
 [![EOL](https://img.shields.io/badge/Status-EOL-lightgrey.svg?style=flat-square)]()  
 原创纸牌游戏：我的第一个程序，界面及音效抄袭度高达 99%。 
 ## 下载
