@@ -1,12 +1,8 @@
 # 7g253
 [![EOL](https://img.shields.io/badge/Status-EOL-lightgrey.svg?style=flat-square)]()  
-A card game
-## Environment
-
-    OS:Windows/Mac Os/Linux  
-    Python edition:Python2.7  
-    Pakages:Pygame
-
+A card game  
+## Release
+[For Windows](http://download.jackeriss.com/works/7g253.zip)
 ## Rules
 1.It needs two dashs of cards in this game.  
 2.The order of cards by there values:7>Joker>2>5>3>K>Q>J>10>8>6>4>A  
@@ -16,8 +12,6 @@ A card game
 6.If you have no cards in your hand that is bigger than the card which the other player played, then you shoud put one of your hand cards up side down.  
 7.When there is no cards to draw,the game is over,and the player who has less cards up side down wins the game,except...  
 8.If someone have a full collection of "7/Joker/2/5/3" in the same color,he wins directly.
-## Release
-[For Windows](http://download.jackeriss.com/works/7g253.zip)
 ## Screenshots
 ![1](http://image.jackeriss.com/project/7g253/1.png)
 ![2](http://image.jackeriss.com/project/7g253/2.png)
