@@ -1,9 +1,9 @@
 # 七鬼二五三
 [![EOL](https://img.shields.io/badge/Status-EOL-lightgrey.svg?style=flat-square)]()  
-原创纸牌游戏——我的第一个程序，界面及音效抄袭度高达 99%。 
+原创纸牌游戏
 ## 下载
 [for Windows](http://download.jackeriss.com/works/7g253.zip)
-## 游戏规则之英文装逼版（中文版见游戏内或截图）
+## 游戏规则
 1.It needs two dashs of cards in this game.  
 2.The order of cards by there values:7>Joker>2>5>3>K>Q>J>10>8>6>4>A  
 3.Red cards>black cards when there ranks are same  
